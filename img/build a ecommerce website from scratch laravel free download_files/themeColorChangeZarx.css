@@ -1,0 +1,224 @@
+/** zarx Night CSS**/
+.zarxNight,
+.zarxNight li,
+.zarxNight table,
+.zarxNight table tr,
+.zarxNight table th,
+.zarxNight table tr td,
+.zarxNight p,
+.zarxNight h1,
+.zarxNight .main_form_area_title_area h1,
+.zarxNight .header-content h1,
+.zarxNight h2,
+.zarxNight h3,
+.zarxNight h4,
+.zarxNight h5,
+.zarxNight h6,
+.zarxNight a,
+.zarxNight div.box,
+.zarxNight header#header,
+.zarxNight div,
+.zarxNight form,
+.zarxNight form ul,
+.zarxNight li.list-group-item,
+.zarxNight form ul li.list-group-item,
+.zarxNight form ul li,
+.zarxNight form ul.list-group,
+.zarxNight div.card,
+.zarxNight div.card-body,
+.zarxNight ul li,
+.zarxNight ul,
+.zarxNight ul.list-group,
+.zarxNight section,
+.zarxNight section#services,
+.zarxNight #sidebar,
+.zarxNight small,
+.zarxNight small strong,
+.zarxNight .list-group-item strong,
+.zarxNight strong,
+.zarxNight .btn,
+.zarxNight #sidebar .sidebar-header,
+.zarxNight .navbar,
+.zarxNightFooter#footer,
+.zarxNightFooter .footer-top {
+    background-color:#333 !important;
+    color:#fff !important;
+    background:#333 !important;
+}
+.zarxNight .router-link-exact-active{
+    background-color:#fff !important;
+    color:#333 !important;
+    background:#fff !important;
+}
+
+.zarxNight .box {
+    box-shadow: #fff 1px 1px 13px !important;
+}
+
+.zarxNight .tasksWrapperMain .list-group-item{
+    border:solid 1px #fff;
+}
+.zarxNight table tr td,
+.zarxNight table tr td.fc-day,
+.zarxNight .btn{
+    border:solid 1px #fff !important;
+}
+
+.zarxNightFooter ul.footer-nav li a,
+.zarxNightFooter span,
+.zarxNightFooter .footerBoxes h5,
+.zarxNight pre,
+.zarxNight div#siteSearchBox form input
+{
+    color:#fff !important;
+}
+.zarxNight pre{
+    background-color: #6a6a6a !important;
+    padding: 20px;
+}
+
+.zarxNight .tasksWrapperMain .list-group-item.importantTask{
+    box-shadow: 1px 6px 6px #368bf9 !important;
+    border: solid 1px #368bf9 !important;
+}
+.zarxNight .selectedTask {
+    box-shadow: #ffbf00 0px 1px 12px !important;
+}
+
+/** zarx Night CSS**/
+
+
+
+
+
+
+
+
+
+/**
+    If task manager page.
+ */
+/** zarx Night CSS**/
+.zarxNightTaskManager,
+.zarxNightTaskManager li,
+.zarxNightTaskManager table,
+.zarxNightTaskManager table tr,
+.zarxNightTaskManager table th,
+.zarxNightTaskManager table tr td,
+.zarxNightTaskManager p,
+.zarxNightTaskManager h1,
+.zarxNightTaskManager .main_form_area_title_area h1,
+.zarxNightTaskManager .header-content h1,
+.zarxNightTaskManager h2,
+.zarxNightTaskManager h3,
+.zarxNightTaskManager h4,
+.zarxNightTaskManager h5,
+.zarxNightTaskManager h6,
+.zarxNightTaskManager a,
+.zarxNightTaskManager div.box,
+.zarxNightTaskManager header#header,
+.zarxNightTaskManager div,
+.zarxNightTaskManager form,
+.zarxNightTaskManager form ul,
+.zarxNightTaskManager li.list-group-item,
+.zarxNightTaskManager form ul li.list-group-item,
+.zarxNightTaskManager form ul li,
+.zarxNightTaskManager form ul.list-group,
+.zarxNightTaskManager div.card,
+.zarxNightTaskManager div.card-body,
+.zarxNightTaskManager ul li,
+.zarxNightTaskManager ul,
+.zarxNightTaskManager ul.list-group,
+.zarxNightTaskManager section,
+.zarxNightTaskManager section#services,
+.zarxNightTaskManager #sidebar,
+.zarxNightTaskManager .list-group-item strong,
+.zarxNightTaskManager strong,
+.zarxNightTaskManager #sidebar .sidebar-header,
+.zarxNightTaskManager .navbar,
+.zarxNightFooter#footer,
+.zarxNightFooter .footer-top {
+    background-color:#333 !important;
+    background:#333 !important;
+}
+.zarxNightTaskManager .router-link-exact-active{
+    background-color:#fff !important;
+    color:#333 !important;
+    background:#fff !important;
+}
+
+.zarxNightTaskManager .tasksWrapperMain .list-group-item{
+    border:solid 1px #fff;
+}
+
+
+.zarxNightFooter ul.footer-nav li a,
+.zarxNightFooter span,
+.zarxNightFooter .footerBoxes h5,
+.zarxNightTaskManager pre,
+.zarxNightTaskManager div.jumbotron p,
+.zarxNightTaskManager div.jumbotron h5,
+.zarxNightTaskManager nav.main-nav li a,
+.zarxNightTaskManager header div.social-links a,
+.zarxNightTaskManager header div.social-links i,
+.zarxNightTaskManager header div.social-links label,
+.zarxNightTaskManager .alert,
+.zarxNightTaskManager .modal-content,
+.zarxNightTaskManager div#editorEdit,
+.zarxNightTaskManager div.ql-toolbar span button svg
+{
+    color:#fff !important;
+}
+.zarxNightTaskManager pre{
+    background-color: #6a6a6a !important;
+    padding: 20px;
+}
+
+.zarxNightTaskManager .tasksWrapperMain .list-group-item.importantTask{
+    box-shadow: 1px 6px 6px #368bf9 !important;
+    border: solid 1px #368bf9 !important;
+}
+.zarxNightTaskManager .selectedTask {
+    box-shadow: #ffbf00 0px 1px 12px !important;
+}
+
+.zarxNightTaskManager .eachColumn li.list-group-item p{
+    background-color:transparent !important;
+}
+
+.zarxNightTaskManager .jspHorizontalBar .jspDrag{
+    background:#777 !important;
+    color:#777 !important;
+}
+.zarxNightTaskManager .jspHorizontalBar .jspTrack{
+    background:#fff !important;
+    color:#777 !important;
+}
+.zarxNightTaskManager .jspHorizontalBar .jspArrow{
+    background:#33b5e5 !important;
+    color:#777 !important;
+}
+
+
+
+
+
+
+/**
+    In task manager if user enables dark mode we need to handle task box colors.
+**/
+
+.zarxNightTaskManager div.card-body.task-item ,
+.zarxNightTaskManager div.card-body.task-item div,
+.zarxNightTaskManager div.card-body.task-item div div,
+.zarxNightTaskManager div.card-body.task-item div small,
+.zarxNightTaskManager div.card-body.task-item div a,
+.zarxNightTaskManager div.card-body.task-item div button,
+.zarxNightTaskManager div.card-body.task-item div strong{
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+.zarxNightTaskManager .modal-dialog.modal-notify .modal-body{
+    color:#fff !important;
+}
